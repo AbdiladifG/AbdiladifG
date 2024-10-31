@@ -26,6 +26,7 @@ I am a Software Engineer based in Cambridge, MA. I am proficient in both Fronten
 </div>
 </td><td valign="top" width="50%">
  
+<br/>
 
 ## Connect with me  
 
