@@ -2,6 +2,7 @@
 ## Hi there 👋, My name is Abdiladif Gurhan
 I am a Software Engineer based in Cambridge, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
@@ -48,13 +49,13 @@ I am a Software Engineer based in Cambridge, MA. I am proficient in both Fronten
         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
     </td>
    <td width="33%" valign="top">
-      <h3><a></a></h3> 
+      <h3><a></a>Portfolio Website </h3> 
         <br>
         <p><a href="#" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-            <img src="" style="max-width:100%;">
-        </a>
+         <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF1cXdrMzhhOHdycmhrMGM4YXV2Y2Fybjg5OTFzYXlwN3l5ZXF3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEf7MoyFLJkV8UFZn/giphy.gif">
+         </a>
         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
     </td>
   </tr>
