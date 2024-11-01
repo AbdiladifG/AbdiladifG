@@ -1,28 +1,21 @@
+![image](https://github.com/user-attachments/assets/00c8fa0e-e539-4675-94e1-a2b77581d789)
 ## Hi there 👋, My name is Abdiladif Gurhan
-
 I am a Software Engineer based in Cambridge, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
-### Frontend  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
-</div>
-</td><td valign="top" width="33%">
- 
-### Backend  
- 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>
 </td></tr></table> 
 
@@ -45,6 +38,16 @@ I am a Software Engineer based in Cambridge, MA. I am proficient in both Fronten
         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
     </td>
     <td width="33%" valign="top">
+      <h3><a></a></h3> 
+        <br>
+        <p><a href="#" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="#" rel="nofollow">
+            <img src="" style="max-width:100%;">
+        </a>
+        <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
+    </td>
+   <td width="33%" valign="top">
       <h3><a></a></h3> 
         <br>
         <p><a href="#" rel="nofollow">Visit Site</a></p>
