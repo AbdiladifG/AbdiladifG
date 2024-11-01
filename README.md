@@ -28,33 +28,23 @@ I am a Software Engineer based in Cambridge, MA. I am proficient in both Fronten
   <div>
 <table>
   <tbody><tr>
-    <td width="33%" valign="top">
-      <h3><a></a></h3> 
+    <td width="50%" valign="top">
+      <h3><a></a>Matching Card Game</h3> 
         <br>
         <p><a href="#" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-            <img src="" style="max-width:100%;">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuYnNsb3d4Z2N3bHhibDV0d2s1M2l0NTVsNmh6OGUxZ2VlZmt5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNXLl9lvK9GqgOceq5/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
     </td>
-    <td width="33%" valign="top">
-      <h3><a></a></h3> 
-        <br>
-        <p><a href="#" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="#" rel="nofollow">
-            <img src="" style="max-width:100%;">
-        </a>
-        <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
-    </td>
-   <td width="33%" valign="top">
+   <td width="50%" valign="top">
       <h3><a></a>Portfolio Website </h3> 
         <br>
         <p><a href="#" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-         <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF1cXdrMzhhOHdycmhrMGM4YXV2Y2Fybjg5OTFzYXlwN3l5ZXF3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEf7MoyFLJkV8UFZn/giphy.gif">
+         <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF1cXdrMzhhOHdycmhrMGM4YXV2Y2Fybjg5OTFzYXlwN3l5ZXF3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VMEf7MoyFLJkV8UFZn/giphy.gif" style="max-width:100%;">
          </a>
         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p>
     </td>
