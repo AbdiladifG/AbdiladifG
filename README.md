@@ -41,7 +41,7 @@ I am a Software Engineer based in Cambridge, MA. I am proficient in both Fronten
    <td width="50%" valign="top">
       <h3><a></a>Portfolio Website </h3> 
         <br>
-        <p><a href="abdiladif-gurhan.netlify.app" rel="nofollow">Visit Site</a></p>
+        <p><a href="https://abdiladif-gurhan.netlify.app/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
          <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMyNzB3bW9ubXIzY2h5OTlmMXM1OW0yMTYycGVhYndweDduemg2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OGUJ8T7cQBo4DNLTv5/giphy.gif" style="max-width:100%;">
